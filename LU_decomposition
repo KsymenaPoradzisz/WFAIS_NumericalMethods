@@ -1,4 +1,4 @@
-Author: Ksymena Poradzisz
+//Author: Ksymena Poradzisz
 
 #this code do LU decomposition on given matrices
 #include <iostream>
