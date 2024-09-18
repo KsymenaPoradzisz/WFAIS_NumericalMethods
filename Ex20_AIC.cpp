@@ -1,3 +1,5 @@
+//Author: Ksymena Poradzisz
+
 #include <iostream>
 #include <cstdio>
 #include <cmath>
